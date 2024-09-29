@@ -15,7 +15,7 @@ By utilizing clustering algorithms, we aim to provide actionable insights into c
 **Analyze Customer Segments:** Understand the characteristics of each segment to tailor business strategies for different customer groups, such as high-value customers, occasional buyers, and discount-driven shoppers.
 **Provide Strategic Recommendations:** Based on the segmentation results, suggest marketing, sales, and retention strategies to target each customer segment effectively.
 
-## Link to Datset
+## Link to Dataset
 https://www.kaggle.com/datasets/jacopoferretti/superstore-dataset 
 
 ## Business Questions to Answer
