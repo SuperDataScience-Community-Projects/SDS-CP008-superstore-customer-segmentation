@@ -38,3 +38,5 @@ The best clustering option is Region & Profit. This clustering enables:
 - CLV-Driven Support  
   Offer personalized VIP experiences based on customer lifetime value.
   Invest in long-term relationship building.
+
+  Full presentation is [here](Optimizing-Business-Strategies-Through-Clustering-Analysis.pdf)
