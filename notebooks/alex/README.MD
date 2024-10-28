@@ -1,13 +1,13 @@
 ## Project Objectives
 By utilizing clustering algorithms, the aim is to provide actionable insights into customer preferences and behavior patterns, which will ultimately drive more effective customer engagement and increase profitability.
 
-- **Understand Customer Behavior:**  
+- **Understand Customer Behavior**  
   Identify key patterns in customer purchasing habits, such as frequency of purchases, total spend, product preferences, and discount sensitivity. 
-- **Create Customer Segments:**  
+- **Create Customer Segments**  
   Group customers into distinct segments based on their transactional data (e.g., purchase history, frequency, order quantity, discount usage, and profitability).
-- **Analyze Customer Segments:**  
+- **Analyze Customer Segments**  
   Understand the characteristics of each segment to tailor business strategies for different customer groups, such as high-value customers, occasional buyers, and discount-driven shoppers.
-- **Provide Strategic Recommendations:**  
+- **Provide Strategic Recommendations**  
   Based on the segmentation results, suggest marketing, sales, and retention strategies to target each customer segment effectively.
 
 ## Link to Dataset
